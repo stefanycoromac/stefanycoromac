@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/Microsoft_Azure-008ad7?style=for-the-badge&logo=microsoft-azure">
     <br/>
     <img src="https://img.shields.io/badge/Mysql-00758f?style=for-the-badge&logo=MYSQL&logoColor=white">
-    <img src="https://img.shields.io/badge/Oracle_Database-000000?style=for-the-badge&logo=oracle&logoColor=white">github
+    <img src="https://img.shields.io/badge/Oracle_Database-000000?style=for-the-badge&logo=oracle&logoColor=white">
     <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
