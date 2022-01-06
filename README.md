@@ -73,7 +73,7 @@
 
 <br/>
 <div align="center"> 
-    <img  src="https://es.bloggif.com/tmp/3dbca41868585ad463d2111f3259bc84/text.gif?1641363889">
+   
 </div>
 
 
